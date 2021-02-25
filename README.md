@@ -1,6 +1,7 @@
 # Программирование на языке Python
 
-## branch1
+## branch1 
+изменение
 
 Лекция №1:
 [nb](https://nbviewer.jupyter.org/github/true-grue/kispython/blob/main/lect1.ipynb)
